@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c0c9f7da.css",
-    "main.js": "./static/js/main.c421e761.js",
+    "main.css": "./static/css/main.02d3199b.css",
+    "main.js": "./static/js/main.feb5c504.js",
     "static/js/453.453f2ef2.chunk.js": "./static/js/453.453f2ef2.chunk.js",
     "static/media/bozo-room-bg.png": "./static/media/bozo-room-bg.02e4b74d5944973a3081.png",
     "static/media/state-victory.png": "./static/media/state-victory.ab8fdbd0987ae05b3b78.png",
@@ -32,6 +32,7 @@
     "static/media/state-victory-text.png": "./static/media/state-victory-text.916e4647050ac869f48e.png",
     "static/media/race-first-5.png": "./static/media/race-first-5.83bbc99dc400917df956.png",
     "static/media/race-first-1.png": "./static/media/race-first-1.37888a9b2ae79f190dd9.png",
+    "static/media/trophy-gold.png": "./static/media/trophy-gold.d98ef9edaa111ec1c71c.png",
     "static/media/bozo.png": "./static/media/bozo.831a9ce7228c966d3d26.png",
     "static/media/DND STATS BLOCK.png": "./static/media/DND STATS BLOCK.bcae26fd2a1c0b100860.png",
     "static/media/KGPerfectPenmanship.ttf": "./static/media/KGPerfectPenmanship.19fd40d5eec7a1031023.ttf",
@@ -47,7 +48,9 @@
     "static/media/food-cheese.png": "./static/media/food-cheese.89a9cdfed3bfe2440941.png",
     "static/media/text-box.png": "./static/media/text-box.5cc440a59452fdd2c44a.png",
     "static/media/text-box-small.png": "./static/media/text-box-small.20dc404d7bb7ae25f69d.png",
+    "static/media/trophy-silver.png": "./static/media/trophy-silver.f8d01538cd1a881d4882.png",
     "static/media/race-first-6.png": "./static/media/race-first-6.a8312350f9111fb171b1.png",
+    "static/media/trophy-bronze.png": "./static/media/trophy-bronze.7f5bceb26669c77dbfb8.png",
     "static/media/day-counter.png": "./static/media/day-counter.6cc9a227db200e64d5da.png",
     "static/media/food-cheese-eaten-1.png": "./static/media/food-cheese-eaten-1.045ffd388878d0ea82a5.png",
     "static/media/kindergarten.ttf": "./static/media/kindergarten.2ce241e0eaf47add964a.ttf",
@@ -88,12 +91,12 @@
     "static/media/day-counter-nine.png": "./static/media/day-counter-nine.b644b0d99efa83044f5b.png",
     "static/media/day-counter-four.png": "./static/media/day-counter-four.101f1736f9d76231f1fa.png",
     "index.html": "./index.html",
-    "main.c0c9f7da.css.map": "./static/css/main.c0c9f7da.css.map",
-    "main.c421e761.js.map": "./static/js/main.c421e761.js.map",
+    "main.02d3199b.css.map": "./static/css/main.02d3199b.css.map",
+    "main.feb5c504.js.map": "./static/js/main.feb5c504.js.map",
     "453.453f2ef2.chunk.js.map": "./static/js/453.453f2ef2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0c9f7da.css",
-    "static/js/main.c421e761.js"
+    "static/css/main.02d3199b.css",
+    "static/js/main.feb5c504.js"
   ]
 }
