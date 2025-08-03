@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.33d413f2.css",
-    "main.js": "./static/js/main.0cafdb66.js",
+    "main.css": "./static/css/main.c0c9f7da.css",
+    "main.js": "./static/js/main.2aa8c4ae.js",
     "static/js/453.453f2ef2.chunk.js": "./static/js/453.453f2ef2.chunk.js",
     "static/media/bozo-room-bg.png": "./static/media/bozo-room-bg.02e4b74d5944973a3081.png",
     "static/media/state-victory.png": "./static/media/state-victory.ab8fdbd0987ae05b3b78.png",
@@ -51,6 +51,7 @@
     "static/media/day-counter.png": "./static/media/day-counter.6cc9a227db200e64d5da.png",
     "static/media/food-cheese-eaten-1.png": "./static/media/food-cheese-eaten-1.045ffd388878d0ea82a5.png",
     "static/media/kindergarten.ttf": "./static/media/kindergarten.2ce241e0eaf47add964a.ttf",
+    "static/media/dnd-dice.png": "./static/media/dnd-dice.9609bde8287bd9aadcda.png",
     "static/media/pet-hand.png": "./static/media/pet-hand.605abd0cf672952f8af6.png",
     "static/media/bozo_silhouette.png": "./static/media/bozo_silhouette.90820b463ee6ad4abe48.png",
     "static/media/pet-hearts.png": "./static/media/pet-hearts.32b6f0712b7fb45f8206.png",
@@ -59,6 +60,7 @@
     "static/media/button-next-day.png": "./static/media/button-next-day.d8c407202ae1deb43a4a.png",
     "static/media/bozo-cat.png": "./static/media/bozo-cat.b2c79d54edfbfc341f9c.png",
     "static/media/bozo-fire-flier.png": "./static/media/bozo-fire-flier.359a8dc69cb8db113eb6.png",
+    "static/media/race-continue-button.png": "./static/media/race-continue-button.15600ddfe14dc12b296c.png",
     "static/media/button-stream.png": "./static/media/button-stream.05d2a98328c03bc7413a.png",
     "static/media/bozo-twitch-prime-simp.png": "./static/media/bozo-twitch-prime-simp.723656834a81e91ef54c.png",
     "static/media/button-clean.png": "./static/media/button-clean.2a51605480f1113e1b91.png",
@@ -85,12 +87,12 @@
     "static/media/day-counter-nine.png": "./static/media/day-counter-nine.b644b0d99efa83044f5b.png",
     "static/media/day-counter-four.png": "./static/media/day-counter-four.101f1736f9d76231f1fa.png",
     "index.html": "./index.html",
-    "main.33d413f2.css.map": "./static/css/main.33d413f2.css.map",
-    "main.0cafdb66.js.map": "./static/js/main.0cafdb66.js.map",
+    "main.c0c9f7da.css.map": "./static/css/main.c0c9f7da.css.map",
+    "main.2aa8c4ae.js.map": "./static/js/main.2aa8c4ae.js.map",
     "453.453f2ef2.chunk.js.map": "./static/js/453.453f2ef2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33d413f2.css",
-    "static/js/main.0cafdb66.js"
+    "static/css/main.c0c9f7da.css",
+    "static/js/main.2aa8c4ae.js"
   ]
 }
